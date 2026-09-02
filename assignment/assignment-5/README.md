@@ -1,8 +1,8 @@
 # ASSIGNMENT: Rapid Prototype for Myanmar Logistics & Tracking System
 
-**Deadline:** 18 Sept 2026  
-**Team Size:** 4 Groups (~11 Members per group) 
-**Deliverable:** Live Prototype Demo & 30-Minute Presentation on 20 Sept 2026 (SAT)  
+**Deadline:** 18 Sept 2026   
+**Team Size:** 4 Groups (~11 Members per group)  
+**Deliverable:** Live Prototype Demo & 30-Minute Presentation on 20 Sept 2026 (SAT)   
 
 ## The Background
 
