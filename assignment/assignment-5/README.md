@@ -12,7 +12,7 @@ Your challenge is to build a highly localized, robust tracking system prototype,
 
 ## The Objective
 
-Using **LLM-based coding / "Vibe Coding"**, your group will rapidly design, generate, and deploy a working prototype of a logistics tracking system. You will not be writing every line of code from scratch; instead, you will architect the system, write effective prompts, manage AI outputs, and integrate the components into a cohesive application.  
+Using **"LLM-based coding / Vibe Coding"**, your group will rapidly design, generate, and deploy a working prototype of a logistics tracking system. You will not be writing every line of code from scratch; instead, you will architect the system, write effective prompts, manage AI outputs, and integrate the components into a cohesive application.  
 
 ## Core Feature Requirements
 
